@@ -34,6 +34,12 @@ At the command prompt, change to the root directory for your app, and then type 
 git remote add azure https://demophpandsql1@hellodemophp.scm.azurewebsites.net:443/hellodemophp.git
 git push azure master
 
+
+==Git Error 
+- ! [rejected]        master -> master (fetch first)
+use :git push --force azure master
+
+
 ==Azure GIt
 URL:https://demophpandsql1@yii2-adv-api-master.scm.azurewebsites.net:443/yii2-adv-api-master.git 
 
