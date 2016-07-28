@@ -10,6 +10,10 @@ git commit -m "first commit"
 git remote add origin https://github.com/riteshyupadhyay/yii2-adv-api-master.git
 git push -u origin master
 
+ git add * -f
+ git push -u origin master
+git commit -m "hopefully fixed pathspec error"
+git rm -r --cached .
 
 
 …or push an existing repository from the command line

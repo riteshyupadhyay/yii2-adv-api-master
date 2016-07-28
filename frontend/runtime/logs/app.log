@@ -1,0 +1,112 @@
+2016-07-26 09:44:06 [127.0.0.1][-][blsdhtla297fuqt7e74uo1ffr3][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_mysql.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_mysql.dll: cannot open shared object file: No such file or directory' in Unknown:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2016-07-26 09:44:06 [127.0.0.1][-][blsdhtla297fuqt7e74uo1ffr3][info][application] $_COOKIE = [
+    '_ga' => 'GA1.1.1107920880.1431693744'
+    '__utma' => '111872281.1107920880.1431693744.1446556839.1448601588.3'
+    '__atuvc' => '23|48'
+    '__zlcmid' => 'b9fcvGZGos6ZQG'
+    '_frontendCSRF' => '5931c4fd307d654ef438124d0d4d60898c1525fb379582724c81191ad3601c74a:2:{i:0;s:13:\"_frontendCSRF\";i:1;s:32:\"cDjASHsHo2bCvvSs1k7ustuJ1XTNcbQd\";}'
+    'linkedin_oauth_81vhyvh1hl5e8z_crc' => 'null'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'V5cUxn8AAQEAABFRC3gAAAAD'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost/yii2-advanced-api/frontend/'
+    'HTTP_COOKIE' => '_ga=GA1.1.1107920880.1431693744; __utma=111872281.1107920880.1431693744.1446556839.1448601588.3; __atuvc=23%7C48; __zlcmid=b9fcvGZGos6ZQG; _frontendCSRF=5931c4fd307d654ef438124d0d4d60898c1525fb379582724c81191ad3601c74a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_frontendCSRF%22%3Bi%3A1%3Bs%3A32%3A%22cDjASHsHo2bCvvSs1k7ustuJ1XTNcbQd%22%3B%7D; linkedin_oauth_81vhyvh1hl5e8z_crc=null'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Unix) OpenSSL/1.0.1e PHP/5.5.6 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/yii2-advanced-api/frontend/web/index.php'
+    'REMOTE_PORT' => '49888'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/yii2-advanced-api/frontend/web/'
+    'SCRIPT_NAME' => '/yii2-advanced-api/frontend/web/index.php'
+    'PHP_SELF' => '/yii2-advanced-api/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1469519046.33
+    'REQUEST_TIME' => 1469519046
+]
+2016-07-26 09:46:38 [127.0.0.1][-][blsdhtla297fuqt7e74uo1ffr3][error][yii\base\ErrorException:32] exception 'yii\base\ErrorException' with message 'PHP Startup: Unable to load dynamic library '/opt/lampp/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_mysql.dll' - /opt/lampp/lib/php/extensions/no-debug-non-zts-20121212/php_pdo_mysql.dll: cannot open shared object file: No such file or directory' in Unknown:0
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2016-07-26 09:46:38 [127.0.0.1][-][blsdhtla297fuqt7e74uo1ffr3][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_COOKIE = [
+    '_ga' => 'GA1.1.1107920880.1431693744'
+    '__utma' => '111872281.1107920880.1431693744.1446556839.1448601588.3'
+    '__atuvc' => '23|48'
+    '__zlcmid' => 'b9fcvGZGos6ZQG'
+    '_frontendCSRF' => '5931c4fd307d654ef438124d0d4d60898c1525fb379582724c81191ad3601c74a:2:{i:0;s:13:\"_frontendCSRF\";i:1;s:32:\"cDjASHsHo2bCvvSs1k7ustuJ1XTNcbQd\";}'
+    'linkedin_oauth_81vhyvh1hl5e8z_crc' => 'null'
+    'advanced-frontend' => 'blsdhtla297fuqt7e74uo1ffr3'
+    '_csrf-frontend' => '930e6afee2cc2f6b863ec17be06ae7438e4b795d23a378aaf0a2c6794b8cc454a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"BOdf837M0Xm0iIBdX3HdQOcomo-4zDfN\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'V5cVXn8AAQEAABdDOGEAAAAH'
+    'HTTP_HOST' => 'localhost'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.5'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_REFERER' => 'http://localhost/yii2-advanced-api/frontend/web/index.php?r=site%2Fsignup'
+    'HTTP_COOKIE' => '_ga=GA1.1.1107920880.1431693744; __utma=111872281.1107920880.1431693744.1446556839.1448601588.3; __atuvc=23%7C48; __zlcmid=b9fcvGZGos6ZQG; _frontendCSRF=5931c4fd307d654ef438124d0d4d60898c1525fb379582724c81191ad3601c74a%3A2%3A%7Bi%3A0%3Bs%3A13%3A%22_frontendCSRF%22%3Bi%3A1%3Bs%3A32%3A%22cDjASHsHo2bCvvSs1k7ustuJ1XTNcbQd%22%3B%7D; linkedin_oauth_81vhyvh1hl5e8z_crc=null; advanced-frontend=blsdhtla297fuqt7e74uo1ffr3; _csrf-frontend=930e6afee2cc2f6b863ec17be06ae7438e4b795d23a378aaf0a2c6794b8cc454a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22BOdf837M0Xm0iIBdX3HdQOcomo-4zDfN%22%3B%7D'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+    'LD_LIBRARY_PATH' => '/opt/lampp/lib:/opt/lampp/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.7 (Unix) OpenSSL/1.0.1e PHP/5.5.6 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/opt/lampp/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/opt/lampp/htdocs/yii2-advanced-api/frontend/web/index.php'
+    'REMOTE_PORT' => '49981'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_URI' => '/yii2-advanced-api/frontend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/yii2-advanced-api/frontend/web/index.php'
+    'PHP_SELF' => '/yii2-advanced-api/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1469519198.307
+    'REQUEST_TIME' => 1469519198
+]
