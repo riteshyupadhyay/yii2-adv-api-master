@@ -96,3 +96,9 @@ http://www.yiiframework.com/wiki/696/key-web-server-settings-after-installing-a-
 
 ==
 https://www.sitepoint.com/community/t/how-can-i-solve-this-web-config-problem/3240
+
+git add --all
+git commit -am "<commit message>"
+git push
+
+http://stackoverflow.com/questions/8775850/how-to-add-files-and-folder-to-github-repo
